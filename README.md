@@ -13,7 +13,7 @@
 
 ## Languages and Tools:
  
-[![Macmiller GitHub stats](https://github-readme-stats.vercel.app/api?username=macmiller87)](https://github.com/macmiller87/github-readme-stats)
+![Macmiller GitHub stats](https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact)](https://github.com/macmiller87/github-readme-stats)
 
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
