@@ -2,7 +2,7 @@
 
 # Welcome!
 
-## I'm (Macmiller)! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## I'm Macmiller ! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 ## I'm a programming student!
 
