@@ -26,12 +26,11 @@
 - Thanks for visiting.
 - Enjoy it!!
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total de Visitas no perfil :detective:
+ 
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/macmiller87/count.svg" />
  </p>
-
-</p>
 
 <!--
 **macmiller87/Macmiller87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
