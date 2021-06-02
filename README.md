@@ -26,7 +26,7 @@
 - Thanks for visiting.
 - Enjoy it!!
 
- ## Total de Visitas no perfil :detective:
+ ## Total Profile Visits :detective:
  
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/macmiller87/count.svg" />
