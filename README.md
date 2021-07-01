@@ -10,7 +10,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/macmiller87)](https://github.com/macmiller87)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/macmillerduarte/)](https://www.linkedin.com/in/macmillerduarte/)
-[![E-mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https:mailto:macamagolf@gmail.com.com)
+[![E-mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https:mailto:macamagolf@gmail.com.com)](mailto:macamagolf@gmail.com.com)
 
 ## Languages and Tools:
  
