@@ -24,7 +24,7 @@
 <code><img height="20" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 
-- Thanks for visiting.
+- Thank's for visiting.
 - Enjoy it!!
 
  ## Total Profile Visits :detective:
