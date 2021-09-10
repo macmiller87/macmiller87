@@ -18,8 +18,8 @@
 
 ## Languages and Tools:
  
-![Macmiller GitHub stats](https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&show_icons=true&theme=dracula)
+![Macmiller GitHub stats](https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&show_icons=true&theme=dark)
 
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
