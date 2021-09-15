@@ -4,9 +4,9 @@
 
 ## About me:
 
-- I'm Macmiller Duarte de Andrade ! 
-- I'm a Programming student !
-- I am a Student of systems analysis and development in the 4th semester.
+- I'm Macmiller Duarte de Andrade !
+- :man_technologist: I'm a Programming student !
+- :man_student:I am a Student of systems analysis and development in the 4th semester.
 
 ## Contact:
 
@@ -22,7 +22,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <a href="https:mailto:macamagolf@gmail.com">
+  <a href="https://mailto:macamagolf@gmail.com">
        <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https:mailto:macamagolf@gmail.com">
   </a>
  
@@ -30,6 +30,7 @@
 
 ## Visit my Home Page !
 
+:point_down:
 <p align="center">
  
  [![My-web-site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://macmiller87.github.io/My-site-presentation.github.io/)
