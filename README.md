@@ -12,7 +12,7 @@
 
 <p align="center">
  
-  <a href="mailto://github.com/macmiller87">
+  <a href="https://github.com/macmiller87">
        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/macmiller87">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <a href="https://mailto:macamagolf@gmail.com">
+  <a href="mailto:macamagolf@gmail.com">
        <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https:mailto:macamagolf@gmail.com">
   </a>
  
