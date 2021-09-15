@@ -22,7 +22,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <a href="https:mailto:macamagolf@gmail.com">
+  <a href="https://mailto:macamagolf@gmail.com">
        <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https:mailto:macamagolf@gmail.com)">
   </a>
  
