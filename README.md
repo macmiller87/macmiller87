@@ -6,6 +6,7 @@
 
 - I'm Macmiller Duarte de Andrade ! 
 - I'm a Programming student !
+- I am a Student of systems analysis and development in the 4th semester.
 
 ## Contact:
 
@@ -31,13 +32,9 @@
 
 <p align="center">
  
-   <a href="https://macmiller87.github.io/My-site-presentation.github.io/">
-        <img  src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg&link=https://macmiller87.github.io/My-site-presentation.github.io/">
-   </a>
+ [![My-web-site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://macmiller87.github.io/My-site-presentation.github.io/)
  
 </p>
-
- [![My-web-site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://macmiller87.github.io/My-site-presentation.github.io/)
  
 ## Languages:
 
