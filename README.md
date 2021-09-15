@@ -22,8 +22,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <a href="https://mailto:macamagolf@gmail.com">
-       <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https:mailto:macamagolf@gmail.com)">
+  <a href="https:mailto:macamagolf@gmail.com">
+       <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https:mailto:macamagolf@gmail.com">
   </a>
  
 </p>
@@ -36,7 +36,7 @@
  
 </p>
  
-## Languages:
+## Languages and tools:
 
 <code><img height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 &nbsp;&nbsp;
