@@ -39,17 +39,21 @@
  
 ## Languages and tools:
 
-<code><img height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img widht="30" height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
-<code><img height="24" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
+<code><img widht="50" height="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
-<code><img height="24" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+<code><img widht="30" height="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
-<code><img height="24" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img widht="30" height="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
-<code><img height="24" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></code>
+<code><img height="30" height="40" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></code>
 &nbsp;&nbsp;
-<code><img height="24" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/oracle/oracle-original.svg"></code>
+&nbsp;&nbsp;
+<code><img widht="30" height="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"></code>
+
+
 
 ## Statistics
 
