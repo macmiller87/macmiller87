@@ -41,7 +41,7 @@
 
 <code><img widht="30" height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
-<code><img widht="50" height="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"></code>
+<code><img widht="30" height="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
