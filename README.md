@@ -6,7 +6,7 @@
 
 - I'm Macmiller Duarte de Andrade !
 - :man_technologist: I'm a Programming student !
-- :man_student: I am a Student of systems analysis and development in the 4th semester.
+- :man_student: I am a student of Systems analysis and Development in the 4th semester.
 
 ## Contact:
 
