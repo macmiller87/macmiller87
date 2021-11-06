@@ -38,6 +38,7 @@
 </p>
  
 ## Languages and tools:
+&nbsp;&nbsp;
 
 <code><img widht="30" height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
@@ -57,20 +58,24 @@
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor"></code>
 
-
+&nbsp;&nbsp;
 
 ## Statistics
 
+&nbsp;&nbsp;
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/github-readme-stats">
     <img 
-     align="center" height="166" src="https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      height="166" src="https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/github-readme-stats">
     <img 
-     align="center" height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&langs_count=7&theme=dark" />
+      height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&langs_count=7&theme=dark" />
   </a>
 </p>
+
+&nbsp;&nbsp;
 
 ## Total Profile Visits:detective:
  
