@@ -48,8 +48,6 @@
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
-<code><img height="30" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></code>
-&nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/oracle/oracle-original.svg"></code>
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"></code>
@@ -65,14 +63,8 @@
 &nbsp;&nbsp;
 
 <p align="center">
-  <a href="https://github.com/github-readme-stats">
-    <img 
-      height="166" src="https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/github-readme-stats">
-    <img 
-      height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&langs_count=7&theme=dark" />
-  </a>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 &nbsp;&nbsp;
