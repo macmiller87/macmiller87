@@ -62,13 +62,13 @@
 ## Statistics
 
 <p align="center">
-  <a href="https://github-readme-stats">
-<img 
-     align="center" height="166"  src="https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <a/>
-  <a href="https://github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
-         align="center" height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&show_icons=true&theme=dark"/>
+     align="center" height="166" src="https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+     align="center" height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&langs_count=7&theme=dark" />
   </a>
 </p>
 
