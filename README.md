@@ -63,10 +63,10 @@
 
 <p align="center">
   <a href="https://github-readme-stats">
-<img align="center" height="186"  src="https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img align="center" height="166"  src="https://github-readme-stats.vercel.app/api?username=macmiller87&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <a/>
   <a href="https://github-readme-stats">
-    <img align="center" height="186" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&show_icons=true&theme=dark"/>
+    <img align="center" height="166" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macmiller87&layout=compact&show_icons=true&theme=dark"/>
  </a>
 </p>
 
