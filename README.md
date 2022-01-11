@@ -6,7 +6,7 @@
 
 - I'm Macmiller Duarte de Andrade !
 - :man_technologist: I'm a Programming student !
-- :man_student: I am a student of Systems Analysis and Development in the 4th semester.
+- :man_student: I am a student of Systems Analysis and Development in the 5th semester.
 
 ## Contact:
 
@@ -15,13 +15,18 @@
   <a href="https://github.com/macmiller87">
        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/macmiller87">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
   <a href="https://www.linkedin.com/in/macmillerduarte/">
        <img  src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/macmillerduarte/">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
+   <a href="https://discord.gg/ATn5VmRr">
+       <img  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/ATn5VmRr">
+  </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:macamagolf@gmail.com">
        <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https:mailto:macamagolf@gmail.com">
   </a>
