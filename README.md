@@ -49,6 +49,8 @@
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
+<code><img widht="30" height="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"></code>
+&nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor"></code>
