@@ -66,7 +66,7 @@
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
-<code><img widht="30" height="40" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></code>
+<code><img widht="20" height="40" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></code>
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
