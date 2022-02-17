@@ -42,7 +42,7 @@
  
 </p>
  
-## Languages and tools:
+## Languages:
 &nbsp;&nbsp;
 
 <code><img widht="30" height="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"></code>
@@ -56,13 +56,25 @@
 <code><img widht="30" height="40" src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/oracle/oracle-original.svg"></code>
+
 &nbsp;&nbsp;
+
+## Tools:
+&nbsp;&nbsp;
+
 <code><img widht="30" height="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/github-original-wordmark.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/heroku-original-wordmark.svg?size=128&color=currentColor"></code>
-
+&nbsp;&nbsp;
+<code><img widht="30" height="40" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></code>
+&nbsp;&nbsp;
+<code><img widht="30" height="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor"></code>
+&nbsp;&nbsp;
+<code><img widht="30" height="40" src="https://icongr.am/devicon/yarn-original-wordmark.svg?size=128&color=currentColor"></code>
+&nbsp;&nbsp;
+<code><img widht="30" height="40" src="hhttps://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
 
 ## Statistics
