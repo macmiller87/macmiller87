@@ -74,6 +74,8 @@
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor"></code>
 &nbsp;&nbsp;
+<code><img widht="30" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></code>
+&nbsp;&nbsp;
 ## Statistics
 
 &nbsp;&nbsp;
