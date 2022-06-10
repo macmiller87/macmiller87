@@ -76,6 +76,8 @@
 &nbsp;&nbsp;
 <code><img widht="30" height="40" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"></code>
 &nbsp;&nbsp;
+<code><img widht="30" height="34" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"></code>
+&nbsp;&nbsp;
 ## Statistics
 
 &nbsp;&nbsp;
