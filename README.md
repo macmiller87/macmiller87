@@ -5,8 +5,8 @@
 ## About me:
 
 - I'm Macmiller Duarte de Andrade !
-- :man_technologist: I'm a Programming student !
-- :man_student: I am a student of Systems Analysis and Development in the 5th semester.
+- :man_technologist: Back end development student !
+- :man_student: Graduated in Systems Analysis and Development, in 2022.
 
 ## Contact:
 
