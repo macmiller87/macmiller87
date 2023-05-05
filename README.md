@@ -4,8 +4,8 @@
 
 ## About me:
 
-- I'm Macmiller Duarte de Andrade !
-- :man_technologist: Backend development student !
+- I'm Macmiller Duarte de Andrade.
+- :man_technologist: Back-end developer.
 - :man_student: Graduated in Systems Analysis and Development, in 2022.
 
 ## Contact:
