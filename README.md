@@ -11,7 +11,7 @@
 
 - Backend Developer passionate about building scalable APIs and optimizing databases. Experienced in JavaScript, Node.js, and TypeScript, with a strong focus on performance and automation. 
 
-- Currently, I am also improving my English skills, holding an intermediate (B1) level, to better collaborate in global environments.
+- Currently, I am also improving my English skills, holding an intermediate (B2) level, to better collaborate in global environments.
 
 - I'm actively seeking opportunities to contribute to innovative projects, grow professionally, and make an impact as part of a forward-thinking team.
 
