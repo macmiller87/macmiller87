@@ -9,11 +9,11 @@
 - :man_technologist: Backend Developer.
 - :man_student: Graduated in Systems Analysis and Development, in 2022.
 
-- Backend Developer passionate about building scalable APIs and optimizing databases. Experienced in JavaScript, Node.js, and TypeScript, with a strong focus on performance and automation. 
+- Passionate Backend Developer with strong experience in building scalable APIs and optimizing databases, using JavaScript, Node.js, and TypeScript. Focused on performance, automation, and delivering efficient solutions.
+  
+- Currently improving my English (B2 level) to collaborate effectively in international teams and contribute to global projects.
 
-- Currently, I am also improving my English skills, holding an intermediate (B2) level, to better collaborate in global environments.
-
-- I'm actively seeking opportunities to contribute to innovative projects, grow professionally, and make an impact as part of a forward-thinking team.
+- Seeking opportunities to work on innovative projects, grow professionally, and make a positive impact as part of a visionary team.
 
 ## Contact:
 
@@ -95,13 +95,14 @@
 
 &nbsp;&nbsp;
 
+<!--
 ## Total Profile Views:  
 <p  align="center"> 
   <img alingn="center" src="https://profile-counter.glitch.me/macmiller87/count.svg"/>
 </p>
+-->
 
 </p>
-
 :point_down:
 <p align="center">
  
@@ -113,3 +114,4 @@
 <!--
 **macmiller87/Macmiller87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
