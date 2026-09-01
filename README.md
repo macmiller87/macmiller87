@@ -9,12 +9,16 @@
 - :man_technologist: Backend Developer.
 - :man_student: Graduated in Systems Analysis and Development, in 2022.
 
-- Passionate Backend Developer with strong experience in building scalable APIs and optimizing databases, using JavaScript, Node.js, and TypeScript. Focused on performance, automation, and delivering efficient solutions.
+- I'm a Backend Developer with 2 years of professional experience developing REST APIs with JavaScript, Node.js, and TypeScript for enterprise applications.
   
-- Currently improving my English (B2 level) to collaborate effectively in international teams and contribute to global projects.
+- I have experience optimizing SQL queries, automating CI/CD pipelines using GitHub Actions, and containerization with Docker.
+
+- Currently deepening my knowledge in software architecture, distributed systems, and best practices for backend developmen.
+
+- I'm also improving my English (currently B2 level), actively practicing and daily to collaborate effectively in international teams and contribute to global project.
 
 - Seeking opportunities to work on innovative projects, grow professionally, and make a positive impact as part of a visionary team.
-
+  
 ## Contact:
 
 <p align="center">
